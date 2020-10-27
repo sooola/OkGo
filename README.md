@@ -1,2 +1,2 @@
 # OkGo
-    implementation 'com.github.sooola:okgo:1.3'
+    implementation 'com.github.sooola:okgo:1.5'
